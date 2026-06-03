@@ -1,4 +1,4 @@
-# Project F: All Together Now
+# Stock Portfolio Selection Using Predictive Modeling
 
 ## Description
 This is a data analysis project completed in Jupyter Notebook. The project uses Python to explore, clean, and analyze data.
